@@ -45,3 +45,10 @@ python main.py
 ```
 Hệ thống sẽ chạy trên **localhost**, bạn có thể truy cập bằng trình duyệt để kiểm tra giao diện và tính năng.
 
+## 📞 Liên hệ
+**Nguyễn Hoàng Phong**
+* **Email:** nguyenhoangphongsupham@gmail.com
+* **LinkedIn:** [Nguyễn Hoàng Phong](https://www.linkedin.com/in/fong62/)
+* **GitHub:** [Fong62](https://github.com/Fong62)
+
+
